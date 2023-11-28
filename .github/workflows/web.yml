@@ -1,4 +1,4 @@
-name: ra_components
+name: ra_events-state
 
 on: [push, pull_request]
 
